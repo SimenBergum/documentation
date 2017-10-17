@@ -55,8 +55,7 @@ currently not supported.
 ## Tensor examples
 
 In the following examples, we will use the tensor playground to visualize
-tensor operations. The playground can be started by deploying the tensor sample
-app, and opening "http://[host]:[port]/playground/index.html". By clicking
+tensor operations. The playground can be started by deploying the [tensor sample app](https://github.com/vespa-engine/sample-apps/tree/master/basic-search-tensor) and opening "http://[host]:[port]/playground/index.html". By clicking
 on the links below, a settings string will be copied to the clipboard. Paste
 this string into the settings input box in the playground and press enter.
 
